@@ -87,7 +87,7 @@ export default function Nav() {
                             />
                             {/* Logo Text  */}
                             <span>
-                                Devknus
+                                Blog
                             </span>
                         </Typography>
                     </Link>
